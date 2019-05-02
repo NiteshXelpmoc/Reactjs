@@ -31,3 +31,37 @@
     transform: rotate(360deg);
   }
 }
+
+.list_style{
+  list-style: none;
+  display: inline;
+  text-align: center;
+}
+
+.list_item {
+
+  padding: 5px;
+  border: 1px solid black;
+  background-color: aquamarine;
+  margin-right: 5px;
+  margin-left: 5px;
+  
+
+}
+.list_item a {
+  text-decoration: none;
+  color: black;
+  
+}
+.list_top {
+  margin-top: 5px;
+  padding: 30px;
+ 
+}
+
+.main {
+  text-align: center;
+  margin-top: 5px;
+  padding: 20px;
+ 
+}
